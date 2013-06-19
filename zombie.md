@@ -4,45 +4,45 @@
 ##1. 
 Another head hangs lowly
 
-Child is slowly taken
+Brains are slowly eaten
 
 And if violence causes the silence
 
-Who are we mistaking
+What are we becoming
 
 But you see it's not me
 
-It's not my family
+It's not my zombie disease
 
-In your head in your head
+For your head for your head
 
 They are fighting
 
 
 ##2.
 
-With their tanks and their bombs
+With their teeth and their jaws
 
-And their bombs and their guns
+And their jaws and their claws
 
-In your head in your head they are crying
+Mmmmm your head your head they are eating
 
 
 
 
 ###[Chorus]
 
-In your head
+Your head
 
-In your head
+Your head
 
-Zombie zombie zombie ei ei
+Zombie zombie zombie eating eating
 
 What's in your head
 
 In your head.
 
-Zombie, zombie, zombie ei, ei, ei, oh do,do,do,do,do,do,do,do
+Zombie, zombie, zombie eating, eating, ow, ow, ow, ow
 
 
 
@@ -51,19 +51,19 @@ Zombie, zombie, zombie ei, ei, ei, oh do,do,do,do,do,do,do,do
 
 Another mother's breaking heart is taking over the violence causes silence
 
-We must be mistaken
+We must be tasty
 
-It's the same old thing since 1916
+It's the same old thing since 1816
 
-In your head in your head
+For your head for your head
 
-Their still fighting
+They're still fighting
 
-With their tanks and their bombs
+With their teeth and their jaws
 
-And their bombs and their guns
+And their jaws and their claws
 
-In your head in your head they are dying
+For your head for your head they are dying
 
 
 
