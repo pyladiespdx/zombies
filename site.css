@@ -1,0 +1,106 @@
+########### Basic Styles #################
+
+html,
+body {
+    background: #fff;
+    font-size: 13px;
+}
+
+h1 {
+    font-size: 2em;
+    color: hotpink;
+    padding: 20px 30px 0 30px;
+}
+
+h2 {
+    color: black;
+    font-size: 1.4em;
+    padding: 0px 30px 20px 30px;
+}
+
+h3 {
+    font-size: 1.5em;
+    color: black;
+}
+
+p {
+    color: #777;
+    margin: 10px;
+    padding: 0;
+}
+
+a {
+    color: hotpink;
+}
+
+a:hover {
+    color: black;
+}
+
+ul {
+    width: 80%;
+    margin-left: 30px;
+}
+
+li {
+    display: inline-block;
+    background: #999;
+    color: white;
+    padding: 10px 12px;
+    margin-right: 40px;
+}
+
+.header {
+    background: #ebebeb;
+}
+
+.nav {
+
+}
+
+.content {
+    overflow: auto;
+    padding-bottom: 80px;
+}
+
+.main {
+    background: #ebebeb;
+    width: 62%;
+    float: left;
+    margin: 40px 0 40px 2%;
+}
+
+.sidebar {
+    background: #ebebeb;
+    width: 32%;
+    float: left;
+    margin: 40px 2%;
+}
+
+.footer {
+    background: hotpink;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin-left: -20px;
+}
+
+.footer > p {
+    color: white;
+    padding-left: 30px;
+}
+
+#slider {
+    width: 90%;
+    height: 300px;
+    border: 2px dashed #999;
+    margin-left: 5%;
+}
+
+#slider > h3 {
+    font-size: 3em;
+    color: #ebebeb;
+    text-align: center;
+    padding-top: 50px;
+}
+
