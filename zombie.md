@@ -1,14 +1,14 @@
 #"Zombie", the Cranberries lyrics
 --------------------------------------------
 
-##1. 
-Another head hangs lowly
+##1.
+# head hangs lowly
 
-Brains are slowly eaten
+#Brains are slowly eaten
 
-And if violence causes the silence
+#And if violence causes the silence
 
-What are we becoming
+#What are we becoming
 
 But you see it's not me
 
